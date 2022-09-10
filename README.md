@@ -48,9 +48,8 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 
 See the [IOREG]()
 
-### What works and What doesn't or WIP:
+### What works 
 
-- [\] CFG Unlock / DVMT Unlock
 - [x] Battery Percentage (The double battery is working properly)
 - [x] CPU Power Management / Performance
 - [x] Intel Graphics UHD iGPU HDMI Output
@@ -74,3 +73,10 @@ See the [IOREG]()
 - [x] All USB Ports (3.0/3.1)
 - [x] SDXC Card Reader (USB connected)
 - [x] Dual Boot Windows 11 / MacOS
+
+### What doesn't or WIP:
+
+CFG Unlock / DVMT Unlock
+AirDrop
+Apple TV / Apple Music Lossless
+FingerReader
