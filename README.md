@@ -76,7 +76,4 @@ See the [IOREG]()
 
 ### What doesn't or WIP:
 
-CFG Unlock / DVMT Unlock
-AirDrop
-Apple TV / Apple Music Lossless
-FingerReader
+CFG Unlock / DVMT Unlock / AirDrop / Apple TV / Apple Music Lossless / FingerReader
