@@ -50,7 +50,7 @@ See the [IOREG]()
 
 ### What works and What doesn't or WIP:
 
-- [/] CFG Unlock / DVMT Unlock
+- [\] CFG Unlock / DVMT Unlock
 - [x] Battery Percentage (The double battery is working properly)
 - [x] CPU Power Management / Performance
 - [x] Intel Graphics UHD iGPU HDMI Output
@@ -65,7 +65,7 @@ See the [IOREG]()
 - [x] Camera (USB connected)
 - [x] Sleep / Wake / SpeedStep 
 - [x] LED Functionality (blinking after WAKE/SLEEP)
-- [x] Thinkpad Assistant (F4 key : Mute/Unmute microphone, with LED F7:dual display, F8:Wi-Fi, F9:preferences, F10:bluetooth, F11:keyboard,F12:launchpad & Fn-Space:keyboard backlight, Fn+ESC : switch function/media keys)
+- [x] Thinkpad Assistant (F4 key: Mute/Unmute microphone with LED, F7:dual display, F8:Wi-Fi, F9:preferences, F10:bluetooth, F11:keyboard, F12:launchpad & Fn-Space:keyboard backlight, Fn+ESC: switch function/media keys)
 - [x] Yoga SMC Panel (Fan Read / Fan Control)
 - [x] NO Color Banding, Display is correctly seen as 24-Bit Color (ARGB8888)
 - [x] Thunderbolt 100% Functionality for LP Alpine Ridge
