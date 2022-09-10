@@ -35,8 +35,8 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 | iGPU             | Intel® UHD Graphics 620                |
 | Audio            | Realtek ALC256                         |
 | RAM              | 16 GB DDR4 2400 Mhz                    |
-| WiFi + Bluetooth | INTEL Wi-Fi 8265NGW + Bluetooth 4.2    |
-| LAN              | Intel I219-V                           |
+| WiFi + Bluetooth | INTEL Wi-Fi AC 8265NGW + Bluetooth 4.2 |
+| LAN              | Intel Ethernet Connection I219-V       |
 | Thunderbolt 3    | JHL6240 Thunderbolt 3 LP Alpine Ridge  |
 | NVMe             | WD_BLACK SN770 M.2 2280 NVME (MacOS)   |
 | SMBios           | MacBook Pro 14,1                       |
@@ -44,22 +44,33 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 | macOS            | Monterey 12.5.1                        |
 
 
-![infobigsur](./Infos/infomac.png)
+![infomonterey](./Infos/infomac.png)
 
 See the [IOREG]()
 
 ### What works and What doesn't or WIP:
 
-- [x] CFG Unlock
-- [x] Dual Boot Windows/ MacOS
+- [/] CFG Unlock / DVMT Unlock
+- [x] Battery Percentage (The double battery is working properly)
+- [x] CPU Power Management / Performance
 - [x] Intel Graphics UHD iGPU HDMI Output
-- [x] ALC256 Internal Speakers
-- [x] ALC256 HDMI/Thunderbolt Audio Output
-- [x] All USB Ports (3.0/3.1)
+- [x] Intel AC 8265NGW Wi-Fi and Bluetooth
+- [x] Intel Ethernet Connection I219-V
+- [x] iMessage, FaceTime, App Store, iTunes Store.
+- [x] Sidecar wired (Works with 14,1 SMBIOS)
+- [x] Realtek ALC256 Internal Speakers
+- [x] Realtek ALC256 HDMI/Thunderbolt Audio Output
+- [x] TouchPad 1-5 fingers swipe (Emulate force touch using longer and more voluminous touch)
+- [x] TrackPoint
+- [x] Camera (USB connected)
 - [x] Sleep / Wake / SpeedStep 
-- [x] AC 9560 Wi-Fi and Bluetooth
-- [x] Controller NVME PciE Gen3x4 
-- [x] NVRAM
-- [x] microSDXC Card Reader
-- [x] Thunderbolt Hotplug for GC Titan Ridge
-- [x] USB C Hotplug For GC Titan Ridge
+- [x] LED Functionality (blinking after WAKE/SLEEP)
+- [x] Thinkpad Assistant (F4 key : Mute/Unmute microphone, with LED F7:dual display, F8:Wi-Fi, F9:preferences, F10:bluetooth, F11:keyboard,F12:launchpad & Fn-Space:keyboard backlight, Fn+ESC : switch function/media keys)
+- [x] Yoga SMC Panel (Fan Read / Fan Control)
+- [x] NO Color Banding, Display is correctly seen as 24-Bit Color (ARGB8888)
+- [x] Thunderbolt 100% Functionality for LP Alpine Ridge
+- [x] Thunderbolt Hotplug for LP Alpine Ridge
+- [x] USB C Hotplug For LP Alpine Ridge
+- [x] All USB Ports (3.0/3.1)
+- [x] SDXC Card Reader (USB connected)
+- [x] Dual Boot Windows 11 / MacOS
