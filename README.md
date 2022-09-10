@@ -1,8 +1,8 @@
 <div align="center">
   
 [![](https://img.shields.io/badge/Repositories-pierpaolodimarzo-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/pierpaolodimarzo?tab=repositories)
-[![](https://img.shields.io/badge/Facebook-Pierpaolo di Marzo-informational?style=flat&logo=facebook&logoColor=white&color=3a4dc9)](https://www.facebook.com/pierpaolodimarzo/)
-[![](https://img.shields.io/badge/Instagram-Pierpaolo di Marzo-informational?style=flat&logo=instagram&logoColor=white&color=8a178a)](https://www.instagram.com/pierpaolodimarzo/)
+[![](https://img.shields.io/badge/Facebook-PierpaolodiMarzo-informational?style=flat&logo=facebook&logoColor=white&color=3a4dc9)](https://www.facebook.com/pierpaolodimarzo/)
+[![](https://img.shields.io/badge/Instagram-PierpaolodiMarzo-informational?style=flat&logo=instagram&logoColor=white&color=8a178a)](https://www.instagram.com/pierpaolodimarzo/)
 [![](https://img.shields.io/badge/PayPal-pierpaolodimarzo-informational?style=flat&logo=paypal&logoColor=white&color=00B2EE)](https://www.paypal.com/donate?hosted_button_id=ZHME3NL933AQJ)
 
 </div>
