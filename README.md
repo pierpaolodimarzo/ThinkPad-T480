@@ -15,7 +15,7 @@ NOW YOU CAN UPDATE ON MAC OS VENTURA 13.1 - FULL SUPPORT!
 
 # Follow me with the stars if you like my EFI ❤️
 
-EFI for Lenovo ThinkPad T480 with OpenCore 0.8.3 bootloader.
+EFI for Lenovo ThinkPad T480 with OpenCore 0.8.8 bootloader.
 
 ![descrizione](./Infos/pc.png)
 
