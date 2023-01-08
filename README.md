@@ -15,11 +15,11 @@ Follow me with the stars if you like my EFI ❤️
 
 ![descrizione](./Infos/pc.png)
 
-## Attention ## 
+## ‼️ Attention ## 
 
 Please generate SMBios and add to conflig.plist (Using https://github.com/corpnewt/GenSMBIOS)
 
-## Info PC:
+## 💻 Info PC:
 
 | Component        | Brank                                  |
 | ---------------- | ---------------------------------------|
@@ -37,7 +37,7 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 
 ![infoventura](./Infos/infoventura.png)
 
-## What works 
+## ✅ What works 
 
 - [x] Battery Percentage (The double battery is working properly)
 - [x] CPU Power Management / Performance
@@ -67,7 +67,7 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 ![peripherals](./Infos/peripherals.png)
 ![intel_perfomarce](./Infos/intel_performance.png)
 
-## BIOS Settings
+## 🪛 BIOS Settings
 
 -  `Security > Security Chip`: must be **Disabled**
 -  `Memory Protection > Execution Prevention`: must be **Enabled**
