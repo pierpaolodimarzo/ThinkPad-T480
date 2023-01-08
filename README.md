@@ -9,9 +9,9 @@
 
 # Lenovo ThinkPad T480 - Hackintosh :sunglasses:
 
-# LAST UPDATE 0.8.3 OC - EFI 🔝 WORK STABLE! 
+# LAST UPDATE 0.8.8 OC - EFI 🔝 WORK STABLE! 
 
-NOW YOU CAN UPDATE ON MAC OS VENTURA 13.0 Beta 7 - FULL SUPPORT!
+NOW YOU CAN UPDATE ON MAC OS VENTURA 13.1 - FULL SUPPORT!
 
 # Follow me with the stars if you like my EFI ❤️
 
@@ -21,7 +21,7 @@ EFI for Lenovo ThinkPad T480 with OpenCore 0.8.3 bootloader.
 
 ## OS Version
 
-macOS Monterey 12.5.1
+macOS Ventura 13.1 (22C65)
 
 ## Attention ## 
 
@@ -40,8 +40,8 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 | Thunderbolt 3    | JHL6240 Thunderbolt 3 LP Alpine Ridge  |
 | NVMe             | WD_BLACK SN770 M.2 2280 NVME (MacOS)   |
 | SMBios           | MacBook Pro 14,1                       |
-| BootLoader       | OpenCore 0.8.3                         |
-| macOS            | Monterey 12.5.1                        |
+| BootLoader       | OpenCore 0.8.8                         |
+| macOS            | Ventura 13.1 (22C65)                   |
 
 
 ![infomonterey](./Infos/infomac.png)
