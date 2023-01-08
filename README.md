@@ -44,7 +44,7 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 | macOS            | Ventura 13.1 (22C65)                   |
 
 
-![infomonterey](./Infos/infomac.png)
+![infoventura](./Infos/infomac.png)
 
 ### What works 
 
