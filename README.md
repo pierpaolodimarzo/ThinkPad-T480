@@ -9,19 +9,11 @@
 
 # Lenovo ThinkPad T480 - Hackintosh :sunglasses:
 
-# LAST UPDATE 0.8.8 OC - EFI 🔝 WORK STABLE! 
+Follow me with the stars if you like my EFI ❤️
 
-NOW YOU CAN UPDATE ON MAC OS VENTURA 13.1 - FULL SUPPORT!
-
-# Follow me with the stars if you like my EFI ❤️
-
-EFI for Lenovo ThinkPad T480 with OpenCore 0.8.8 bootloader.
+## EFI for Lenovo ThinkPad T480 with OpenCore 0.8.8 bootloader.
 
 ![descrizione](./Infos/pc.png)
-
-## OS Version
-
-macOS Ventura 13.1 (22C65)
 
 ## Attention ## 
 
