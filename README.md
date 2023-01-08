@@ -27,7 +27,7 @@ macOS Ventura 13.1 (22C65)
 
 Please generate SMBios and add to conflig.plist (Using https://github.com/corpnewt/GenSMBIOS)
 
-### INFO PC:
+## INFO PC:
 
 | Component        | Brank                                  |
 | ---------------- | ---------------------------------------|
