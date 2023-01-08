@@ -46,8 +46,6 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 
 ![infomonterey](./Infos/infomac.png)
 
-See the [IOREG]()
-
 ### What works 
 
 - [x] Battery Percentage (The double battery is working properly)
