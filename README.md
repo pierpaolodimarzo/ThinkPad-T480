@@ -27,28 +27,6 @@ macOS Ventura 13.1 (22C65)
 
 Please generate SMBios and add to conflig.plist (Using https://github.com/corpnewt/GenSMBIOS)
 
-## BIOS Settings
-
--  `Security > Security Chip`: must be **Disabled**
--  `Memory Protection > Execution Prevention`: must be **Enabled**
--  `Virtualization > Intel Virtualization Technology`: must be **Enabled**
--  `Virtualization > Intel VT-d Feature`: must be **Enabled**
--  `Anti-Theft > Computrace -> Current Setting`: must be **Disabled**
--  `Secure Boot > Secure Boot`: must be **Disabled**
--  `Intel SGX -> Intel SGX Control`: must be **Disabled**
--  `Device Guard`: must be **Disabled**
-
-In StartUp Menu, set the following options:
-
--  `UEFI/Legacy Boot`: **UEFI Only**
--  `CSM Support`: **No**
-
-In Thunderbolt Menu, set the following options:
-
--  `Wake by Thunderbolt(TM) 3`: **No**
--  `Security Level`: **No**
--  `Support in Pre Boot Environment > Thunderbolt(TM) device`: **No**
-
 ## Info PC:
 
 | Component        | Brank                                  |
@@ -97,6 +75,28 @@ In Thunderbolt Menu, set the following options:
 ![peripherals](./Infos/peripherals.png)
 ![intel_perfomarce](./Infos/intel_performance.png)
 
+## BIOS Settings
+
+-  `Security > Security Chip`: must be **Disabled**
+-  `Memory Protection > Execution Prevention`: must be **Enabled**
+-  `Virtualization > Intel Virtualization Technology`: must be **Enabled**
+-  `Virtualization > Intel VT-d Feature`: must be **Enabled**
+-  `Anti-Theft > Computrace -> Current Setting`: must be **Disabled**
+-  `Secure Boot > Secure Boot`: must be **Disabled**
+-  `Intel SGX -> Intel SGX Control`: must be **Disabled**
+-  `Device Guard`: must be **Disabled**
+
+In StartUp Menu, set the following options:
+
+-  `UEFI/Legacy Boot`: **UEFI Only**
+-  `CSM Support`: **No**
+
+In Thunderbolt Menu, set the following options:
+
+-  `Wake by Thunderbolt(TM) 3`: **No**
+-  `Security Level`: **No**
+-  `Support in Pre Boot Environment > Thunderbolt(TM) device`: **No**
+
 ## What doesn't or WIP:
 
 CFG Unlock / DVMT Unlock / AirDrop / Apple TV / Apple Music Lossless / FingerReader
@@ -114,4 +114,3 @@ CFG Unlock / DVMT Unlock / AirDrop / Apple TV / Apple Music Lossless / FingerRea
 This repo is licensed under the [MIT License](https://github.com/pierpaolodimarzo/ThinkPad-T480/blob/main/LICENSE).
 
 OpenCore is licensed under the [BSD 3-Clause License](https://github.com/acidanthera/OpenCorePkg/blob/master/LICENSE.txt).
-
