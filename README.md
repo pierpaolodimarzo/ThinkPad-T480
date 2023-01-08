@@ -93,8 +93,9 @@ In Thunderbolt Menu, set the following options:
 - [x] SDXC Card Reader (USB connected)
 - [x] Dual Boot Windows 11 / MacOS
 
-## Peripherals
+## Peripherals & Other
 ![peripherals](./Infos/peripherals.png)
+![intel_perfomarce](./Infos/intel_performance.png)
 
 ## What doesn't or WIP:
 
@@ -107,3 +108,10 @@ CFG Unlock / DVMT Unlock / AirDrop / Apple TV / Apple Music Lossless / FingerRea
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/icelake.html) For great and detailed guides.
 - [Baio1977](https://github.com/Baio1977/)
 - [Dreamwhite](https://github.com/dreamwhite)
+
+## 📜 License
+
+This repo is licensed under the [MIT License](https://github.com/pierpaolodimarzo/ThinkPad-T480/blob/main/LICENSE).
+
+OpenCore is licensed under the [BSD 3-Clause License](https://github.com/acidanthera/OpenCorePkg/blob/master/LICENSE.txt).
+
