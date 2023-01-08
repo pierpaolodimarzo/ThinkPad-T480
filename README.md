@@ -65,7 +65,7 @@ In Thunderbolt Menu, set the following options:
 | BootLoader       | OpenCore 0.8.8                         |
 | macOS            | Ventura 13.1 (22C65)                   |
 
-![infoventura](./Infos/infomac.png)
+![infoventura](./Infos/infoventura.png)
 
 ## What works 
 
