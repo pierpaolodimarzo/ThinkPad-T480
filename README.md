@@ -27,7 +27,29 @@ macOS Ventura 13.1 (22C65)
 
 Please generate SMBios and add to conflig.plist (Using https://github.com/corpnewt/GenSMBIOS)
 
-### INFO PC:
+## BIOS Settings
+
+-  `Security > Security Chip`: must be **Disabled**
+-  `Memory Protection > Execution Prevention`: must be **Enabled**
+-  `Virtualization > Intel Virtualization Technology`: must be **Enabled**
+-  `Virtualization > Intel VT-d Feature`: must be **Enabled**
+-  `Anti-Theft > Computrace -> Current Setting`: must be **Disabled**
+-  `Secure Boot > Secure Boot`: must be **Disabled**
+-  `Intel SGX -> Intel SGX Control`: must be **Disabled**
+-  `Device Guard`: must be **Disabled**
+
+In StartUp Menu, set the following options:
+
+-  `UEFI/Legacy Boot`: **UEFI Only**
+-  `CSM Support`: **No**
+
+In Thunderbolt Menu, set the following options:
+
+-  `Wake by Thunderbolt(TM) 3`: **No**
+-  `Security Level`: **No**
+-  `Support in Pre Boot Environment > Thunderbolt(TM) device`: **No**
+
+## Info PC:
 
 | Component        | Brank                                  |
 | ---------------- | ---------------------------------------|
@@ -43,10 +65,9 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 | BootLoader       | OpenCore 0.8.8                         |
 | macOS            | Ventura 13.1 (22C65)                   |
 
+![infoventura](./Infos/infomac.png)
 
-![infomonterey](./Infos/infomac.png)
-
-### What works 
+## What works 
 
 - [x] Battery Percentage (The double battery is working properly)
 - [x] CPU Power Management / Performance
@@ -72,6 +93,17 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 - [x] SDXC Card Reader (USB connected)
 - [x] Dual Boot Windows 11 / MacOS
 
-### What doesn't or WIP:
+## Peripherals
+![peripherals](./Infos/peripherals.png)
+
+## What doesn't or WIP:
 
 CFG Unlock / DVMT Unlock / AirDrop / Apple TV / Apple Music Lossless / FingerReader
+
+## Credits
+
+- [Apple](https://apple.com) for macOS.
+- [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
+- [Dortania](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/icelake.html) For great and detailed guides.
+- [Baio1977](https://github.com/Baio1977/)
+- [Dreamwhite](https://github.com/dreamwhite)
