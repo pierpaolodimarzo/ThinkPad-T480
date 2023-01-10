@@ -63,10 +63,6 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 - [x] SDXC Card Reader (USB connected)
 - [x] Dual Boot Windows 11 / MacOS
 
-## Peripherals & Other
-![peripherals](./Infos/peripherals.png)
-![intel_perfomarce](./Infos/intel_performance.png)
-
 ## 🪛 BIOS Settings
 
 -  `Security > Security Chip`: must be **Disabled**
@@ -88,6 +84,10 @@ In Thunderbolt Menu, set the following options:
 -  `Wake by Thunderbolt(TM) 3`: **No**
 -  `Security Level`: **No**
 -  `Support in Pre Boot Environment > Thunderbolt(TM) device`: **No**
+
+## Peripherals & Other
+![peripherals](./Infos/peripherals.png)
+![intel_perfomarce](./Infos/intel_performance.png)
 
 ## What doesn't or WIP:
 
