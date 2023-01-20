@@ -47,7 +47,7 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 - [x] iMessage, FaceTime, App Store, iTunes Store.
 - [x] Sidecar wired (Works with 14,1 SMBIOS)
 - [x] Realtek ALC256 Internal Speakers
-- [x] Realtek ALC256 HDMI/Thunderbolt Audio Output
+- [x] Realtek ALC256 HDMI Audio Output
 - [x] TouchPad 1-5 fingers swipe (Emulate force touch using longer and more voluminous touch)
 - [x] TrackPoint
 - [x] Camera (USB connected)
@@ -91,7 +91,7 @@ In Thunderbolt Menu, set the following options:
 
 ## What doesn't or WIP:
 
-CFG Unlock / DVMT Unlock / AirDrop / Apple TV / Apple Music Lossless / FingerReader
+CFG Unlock / DVMT Unlock / AirDrop / FingerReader
 
 ## Credits
 
