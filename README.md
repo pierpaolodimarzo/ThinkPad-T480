@@ -44,7 +44,8 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 - [x] Intel Graphics UHD iGPU HDMI Output
 - [x] Intel AC 8265NGW Wi-Fi and Bluetooth
 - [x] Intel Ethernet Connection I219-V
-- [x] iMessage, FaceTime, App Store, iTunes Store.
+- [x] iMessage, FaceTime, App Store, iTunes Store
+- [x] Apple Music Lossless (Hi-Res Audio) - **NEW FEATURES**
 - [x] Sidecar wired (Works with 14,1 SMBIOS)
 - [x] Realtek ALC256 Internal Speakers
 - [x] Realtek ALC256 HDMI Audio Output
