@@ -93,7 +93,7 @@ In Thunderbolt Menu, set the following options:
 
 ## What doesn't or WIP:
 
-CFG Unlock / DVMT Unlock / AirDrop / FingerReader
+CFG Unlock / DVMT Unlock / AirDrop
 
 ## Credits
 
