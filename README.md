@@ -45,7 +45,6 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 - [x] Intel AC 8265NGW Wi-Fi and Bluetooth
 - [x] Intel Ethernet Connection I219-V
 - [x] iMessage, FaceTime, App Store, iTunes Store
-- [x] Apple Music Lossless (Hi-Res Audio) - **NEW FEATURES**
 - [x] Sidecar wired (Works with 14,1 SMBIOS)
 - [x] Realtek ALC256 Internal Speakers
 - [x] Realtek ALC256 HDMI Audio Output
@@ -63,6 +62,8 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 - [x] All USB Ports (3.0/3.1)
 - [x] SDXC Card Reader (USB connected)
 - [x] Dual Boot Windows 11 / MacOS
+- **NEW FEATURES**
+- [x] Apple Music Lossless (Hi-Res Audio)
 
 ## 🪛 BIOS Settings
 
