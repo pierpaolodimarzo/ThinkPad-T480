@@ -94,7 +94,8 @@ In Thunderbolt Menu, set the following options:
 
 ## What doesn't or WIP:
 
-CFG Unlock / DVMT Unlock / AirDrop
+- `CFG Unlock / DVMT Unlock`: **It is necessary to unlock the BIOS**
+- `AirDrop`: **It is necessary replace the wireless network card with BCM94360CD**
 
 ## Credits
 
