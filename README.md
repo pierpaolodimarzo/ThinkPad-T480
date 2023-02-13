@@ -17,7 +17,7 @@ Follow me with the stars if you like my EFI ❤️
 
 ## ‼️ Attention ## 
 
-Please generate SMBios and add to conflig.plist (Using https://github.com/corpnewt/GenSMBIOS)
+Please generate SMBIOS and add to conflig.plist (Using https://github.com/corpnewt/GenSMBIOS)
 
 ## 💻 Info PC:
 
