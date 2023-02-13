@@ -83,9 +83,10 @@ In StartUp Menu, set the following options:
 
 In Thunderbolt Menu, set the following options:
 
+-  `Thunderbolt BIOS Assist Mode`: **Disabled**
 -  `Wake by Thunderbolt(TM) 3`: **No**
 -  `Security Level`: **No**
--  `Support in Pre Boot Environment > Thunderbolt(TM) device`: **No**
+-  `Support in Pre Boot Environment > Thunderbolt(TM) device`: **Pre-Boot**
 
 ## Peripherals & Other
 ![peripherals](./Infos/peripherals.png)
