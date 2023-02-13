@@ -81,6 +81,10 @@ In StartUp Menu, set the following options:
 -  `UEFI/Legacy Boot`: **UEFI Only**
 -  `CSM Support`: **No**
 
+In USB Menu, set the following options:
+
+-  `Always On USB`: **Disabled** -> It is necessary to extend the battery life
+
 In Thunderbolt Menu, set the following options:
 
 -  `Thunderbolt BIOS Assist Mode`: **Disabled**
