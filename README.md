@@ -67,14 +67,14 @@ Please generate SMBios and add to conflig.plist (Using https://github.com/corpne
 
 ## 🪛 BIOS Settings
 
--  `Security > Security Chip`: must be **Disabled**
--  `Memory Protection > Execution Prevention`: must be **Enabled**
--  `Virtualization > Intel Virtualization Technology`: must be **Enabled**
--  `Virtualization > Intel VT-d Feature`: must be **Enabled**
--  `Anti-Theft > Computrace -> Current Setting`: must be **Disabled**
--  `Secure Boot > Secure Boot`: must be **Disabled**
--  `Intel SGX -> Intel SGX Control`: must be **Disabled**
--  `Device Guard`: must be **Disabled**
+-  `Security > Security Chip`: **Disabled**
+-  `Memory Protection > Execution Prevention`: **Enabled**
+-  `Virtualization > Intel Virtualization Technology`: **Enabled**
+-  `Virtualization > Intel VT-d Feature`: **Enabled**
+-  `Anti-Theft > Computrace -> Current Setting`: **Disabled**
+-  `Secure Boot > Secure Boot`: **Disabled**
+-  `Intel SGX -> Intel SGX Control`: **Disabled**
+-  `Device Guard`: **Disabled**
 
 In StartUp Menu, set the following options:
 
