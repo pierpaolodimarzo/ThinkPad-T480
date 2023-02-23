@@ -92,8 +92,7 @@ In Thunderbolt Menu, set the following options:
 -  `Security Level`: **No Security**
 -  `Support in Pre Boot Environment > Thunderbolt(TM) device`: **Enabled**
 
-After installing the O.S. please set this way to have perfect sleep and wake. 
-The PC resumes from sleep with the "FN" key
+‼️ After installing the O.S. please set this way to have perfect sleep and wake. 
 ![wake_sleep_setting](./Infos/wake_sleep_setting.png)
 
 ## Peripherals & Other
