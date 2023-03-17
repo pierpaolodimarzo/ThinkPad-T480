@@ -392,7 +392,7 @@
 				<key>BundlePath</key>
 				<string>Lilu.kext</string>
 				<key>Comment</key>
-				<string>V1.6.4 | Patch engine</string>
+				<string>Patch engine</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -410,7 +410,7 @@
 				<key>BundlePath</key>
 				<string>VirtualSMC.kext</string>
 				<key>Comment</key>
-				<string>V1.3.1 | Advanced SMC emulation</string>
+				<string>Advanced SMC emulation</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -428,7 +428,7 @@
 				<key>BundlePath</key>
 				<string>SMCBatteryManager.kext</string>
 				<key>Comment</key>
-				<string>V1.3.1 | VirtualSMC Plugin - Battery</string>
+				<string>VirtualSMC Plugin - Battery</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -446,7 +446,7 @@
 				<key>BundlePath</key>
 				<string>SMCProcessor.kext</string>
 				<key>Comment</key>
-				<string>V1.3.1 | VirtualSMC Plugin - Processor</string>
+				<string>VirtualSMC Plugin - Processor</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -464,7 +464,7 @@
 				<key>BundlePath</key>
 				<string>SMCSuperIO.kext</string>
 				<key>Comment</key>
-				<string>V1.3.1 | VirtualSMC Plugin - Fans Control</string>
+				<string>VirtualSMC Plugin - SuperIO</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -482,7 +482,7 @@
 				<key>BundlePath</key>
 				<string>YogaSMC.kext</string>
 				<key>Comment</key>
-				<string>V1.5.3 | ACPI driver for OEM hardware</string>
+				<string>ACPI driver for OEM hardware</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -500,7 +500,7 @@
 				<key>BundlePath</key>
 				<string>WhateverGreen.kext</string>
 				<key>Comment</key>
-				<string>V1.6.5 | Various patches necessary for GPUs</string>
+				<string>Various patches necessary for GPUs</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -518,7 +518,7 @@
 				<key>BundlePath</key>
 				<string>AppleALC.kext</string>
 				<key>Comment</key>
-				<string>V1.8.0 | Native macOS HD audio for not officially supported codecs</string>
+				<string>Native macOS HD audio for not officially supported codecs</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -536,7 +536,7 @@
 				<key>BundlePath</key>
 				<string>ECEnabler.kext</string>
 				<key>Comment</key>
-				<string>V1.0.3 | Embedded Controller for reading battery status.</string>
+				<string>Embedded Controller for reading battery status.</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -554,7 +554,7 @@
 				<key>BundlePath</key>
 				<string>BlueToolFixup.kext</string>
 				<key>Comment</key>
-				<string>V2.6.4 | Forces BlueTool to skip attempting a firmware update, allowing for some chipsets to work on Monterey.  It also properly sets the transport</string>
+				<string>Forces BlueTool to skip attempting a firmware update, allowing for some chipsets to work on Monterey.  It also properly sets the transport</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -572,7 +572,7 @@
 				<key>BundlePath</key>
 				<string>CPUFriend.kext</string>
 				<key>Comment</key>
-				<string>V1.2.7 | Dynamic power management data injection</string>
+				<string>Dynamic power management data injection</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -590,7 +590,7 @@
 				<key>BundlePath</key>
 				<string>CPUFriendDataProvider.kext</string>
 				<key>Comment</key>
-				<string>V1.0.1 | Data for dynamic power management data injection - CPUFriend companion</string>
+				<string>Data for dynamic power management data injection - CPUFriend companion</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -608,7 +608,7 @@
 				<key>BundlePath</key>
 				<string>IntelMausi.kext</string>
 				<key>Comment</key>
-				<string>V1.0.8 | Intel Ethernet LAN driver for macOS</string>
+				<string>Intel Ethernet LAN driver for macOS</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -626,7 +626,7 @@
 				<key>BundlePath</key>
 				<string>NVMeFix.kext</string>
 				<key>Comment</key>
-				<string>V1.1.1 | Improved power management for generic NVMe SSDs</string>
+				<string>Improved power management for generic NVMe SSDs</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -644,7 +644,7 @@
 				<key>BundlePath</key>
 				<string>GenericCardReaderFriend.kext</string>
 				<key>Comment</key>
-				<string>V1.0.4 | A Lilu plugin that makes System Information recognize your builtin USB card reader as a native one</string>
+				<string>A Lilu plugin that makes System Information recognize your builtin USB card reader as a native one</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -662,7 +662,7 @@
 				<key>BundlePath</key>
 				<string>VoodooPS2Controller.kext</string>
 				<key>Comment</key>
-				<string>V2.3.4 | Generic PS2 handler</string>
+				<string>Generic PS2 handler</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -680,7 +680,7 @@
 				<key>BundlePath</key>
 				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext</string>
 				<key>Comment</key>
-				<string>V2.3.4 | VoodooPS2Controller - Keyboard plugin</string>
+				<string>VoodooPS2Controller - Keyboard plugin</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -698,7 +698,7 @@
 				<key>BundlePath</key>
 				<string>BrightnessKeys.kext</string>
 				<key>Comment</key>
-				<string>V1.0.3 | Automatic handling of brightness keys based on ACPI Specification</string>
+				<string>Automatic handling of brightness keys based on ACPI Specification</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -716,7 +716,7 @@
 				<key>BundlePath</key>
 				<string>VoodooRMI.kext</string>
 				<key>Comment</key>
-				<string>V1.4.0 | A port for macOS of Synaptic's RMI Trackpad driver from Linux</string>
+				<string>A port for macOS of Synaptic's RMI Trackpad driver from Linux</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -734,7 +734,7 @@
 				<key>BundlePath</key>
 				<string>VoodooRMI.kext/Contents/PlugIns/VoodooInput.kext</string>
 				<key>Comment</key>
-				<string>V1.1.4 | Generic Multitouch Handler kernel extension for macOS</string>
+				<string>Generic Multitouch Handler kernel extension for macOS</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -752,7 +752,7 @@
 				<key>BundlePath</key>
 				<string>VoodooSMBus.kext</string>
 				<key>Comment</key>
-				<string>V2.2 | i2c-i801 driver port for macOS X + ELAN SMBus macOS X driver for Thinkpad T480s, L380, P52</string>
+				<string>i2c-i801 driver port for macOS X + ELAN SMBus macOS X driver for Thinkpad T480s, L380, P52</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -770,7 +770,7 @@
 				<key>BundlePath</key>
 				<string>VoodooRMI.kext/Contents/PlugIns/RMISMBus.kext</string>
 				<key>Comment</key>
-				<string>V1.0 | SMBus compatibility kext - VoodooSMBus companion</string>
+				<string>SMBus compatibility kext - VoodooSMBus companion</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -788,7 +788,7 @@
 				<key>BundlePath</key>
 				<string>AirportItlwm_Ventura.kext</string>
 				<key>Comment</key>
-				<string>V2.2.0 | Intel Wi-Fi Drivers for macOS Ventura</string>
+				<string>Intel Wi-Fi Drivers for macOS Ventura</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -806,7 +806,7 @@
 				<key>BundlePath</key>
 				<string>IntelBluetoothFirmware.kext</string>
 				<key>Comment</key>
-				<string>V2.3.0 | Intel Bluetooth Drivers for macOS</string>
+				<string>Intel Bluetooth Drivers for macOS</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -824,7 +824,7 @@
 				<key>BundlePath</key>
 				<string>Display-30e4-521.kext</string>
 				<key>Comment</key>
-				<string>V9.9.9 | EDID Display Controller</string>
+				<string>EDID Display Controller</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -842,7 +842,7 @@
 				<key>BundlePath</key>
 				<string>IOElectrify.kext</string>
 				<key>Comment</key>
-				<string>V1.0.0 | Intel Thunderbolt Force-Power</string>
+				<string>Intel Thunderbolt Force-Power</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -860,7 +860,7 @@
 				<key>BundlePath</key>
 				<string>USBMap.kext</string>
 				<key>Comment</key>
-				<string>V1.1 | Custom USB mapping</string>
+				<string>Custom USB mapping</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -961,8 +961,6 @@
 			<integer>0</integer>
 			<key>HibernateMode</key>
 			<string>None</string>
-			<key>HibernateSkipsPicker</key>
-			<true/>
 			<key>HideAuxiliary</key>
 			<true/>
 			<key>LauncherOption</key>
@@ -984,7 +982,7 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>5</integer>
+			<integer>0</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -1149,9 +1147,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TJ5YUHV29</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>18051B0F-FE24-4E41-BE8D-EB101EE6C69F</string>
+			<string></string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -1160,7 +1158,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>#GENERATE#</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1172,26 +1170,26 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string>#GENERATE#</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>#GENERATE#</string>
+			<string></string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
 			<key>BID</key>
-			<string>Mac-B4831CEBD52A0C4C</string>
+			<string></string>
 			<key>FirmwareFeatures</key>
 			<data>fvUP/wgAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
 			<data>f/8f/wgAAAA=</data>
 			<key>MLB</key>
-			<string>#GENERATE#</string>
+			<string></string>
 			<key>ROM</key>
 			<data></data>
 			<key>SystemSerialNumber</key>
-			<string>C02TJ5YUHV29</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>18051B0F-FE24-4E41-BE8D-EB101EE6C69F</string>
+			<string></string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -1210,17 +1208,17 @@
 			<key>BoardProduct</key>
 			<string>Mac-B4831CEBD52A0C4C</string>
 			<key>BoardSerialNumber</key>
-			<string>C02714500GUHWVP1H</string>
+			<string></string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
 			<string>MacBookPro14,1</string>
 			<key>ChassisAssetTag</key>
-			<string>Asset Tag#</string>
+			<string></string>
 			<key>ChassisManufacturer</key>
 			<string>Apple</string>
 			<key>ChassisSerialNumber</key>
-			<string>#GENERATE#</string>
+			<string></string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
@@ -1232,21 +1230,21 @@
 			<key>PlatformFeature</key>
 			<integer>26</integer>
 			<key>ProcessorType</key>
-			<integer>1537</integer>
+			<integer>0</integer>
 			<key>SmcVersion</key>
 			<data></data>
 			<key>SystemFamily</key>
 			<string>MacBook Pro</string>
 			<key>SystemManufacturer</key>
-			<string></string>
+			<string>Apple</string>
 			<key>SystemProductName</key>
 			<string>MacBookPro14,1</string>
 			<key>SystemSKUNumber</key>
-			<string>System SKU#</string>
+			<string></string>
 			<key>SystemSerialNumber</key>
-			<string>#GENERATE#</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>#GENERATE#</string>
+			<string></string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
@@ -1290,12 +1288,6 @@
 			<integer>50</integer>
 			<key>KeySubsequentDelay</key>
 			<integer>5</integer>
-			<key>PointerDwellClickTimeout</key>
-			<integer>0</integer>
-			<key>PointerDwellDoubleClickTimeout</key>
-			<integer>0</integer>
-			<key>PointerDwellRadius</key>
-			<integer>0</integer>
 			<key>PointerPollMask</key>
 			<integer>-1</integer>
 			<key>PointerPollMin</key>
