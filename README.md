@@ -5,6 +5,12 @@
 [![](https://img.shields.io/badge/Instagram-PierpaolodiMarzo-informational?style=flat&logo=instagram&logoColor=white&color=8a178a)](https://www.instagram.com/pierpaolodimarzo/)
 [![](https://img.shields.io/badge/PayPal-pierpaolodimarzo-informational?style=flat&logo=paypal&logoColor=white&color=00B2EE)](https://www.paypal.com/donate?hosted_button_id=ZHME3NL933AQJ)
 
+## Donate ☕
+
+If this project was usefull for you and you want to thanks me you can buy me a cup of coffe.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZHME3NL933AQJ&source=url)
+
 </div>
 
 # Lenovo ThinkPad T480 - Hackintosh :sunglasses:
@@ -14,12 +20,6 @@ Follow me with the stars if you like my EFI ❤️
 ## EFI for Lenovo ThinkPad T480 with OpenCore 0.8.8 bootloader.
 
 ![descrizione](./Infos/pc.png)
-
-## Donate ☕
-
-If this project was usefull for you and you want to thanks me you can buy me a cup of coffe.
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZHME3NL933AQJ&source=url)
 
 ## ‼️ Attention ## 
 
