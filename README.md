@@ -15,6 +15,12 @@ Follow me with the stars if you like my EFI ❤️
 
 ![descrizione](./Infos/pc.png)
 
+## Donate ☕
+
+If this project was usefull for you and you want to thanks me you can buy me a cup of coffe.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZHME3NL933AQJ&source=url)
+
 ## ‼️ Attention ## 
 
 Please generate SMBIOS and add to conflig.plist (Using https://github.com/corpnewt/GenSMBIOS)
