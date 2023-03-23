@@ -7,7 +7,7 @@
 
 ## Donate ☕
 
-<b> If this project was usefull for you and you want to thanks me you can buy me a cup of coffe. </b>
+<b> If this project was usefull for you and you want to thanks me you can buy me a cup of coffe.❤️ </b>
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZHME3NL933AQJ&source=url)
 
