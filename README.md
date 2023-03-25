@@ -13,7 +13,7 @@
 
 </div>
 
-# Lenovo ThinkPad T480 - Hackintosh :sunglasses:
+#Lenovo ThinkPad T480 - Hackintosh :sunglasses:
 
 Follow me with the stars if you like my EFI ❤️
 
