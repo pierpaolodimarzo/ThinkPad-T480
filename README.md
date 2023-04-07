@@ -17,7 +17,7 @@
 
 Follow me with the stars if you like my EFI ❤️
 
-## EFI for Lenovo ThinkPad T480 with OpenCore 0.8.8 bootloader.
+## EFI for Lenovo ThinkPad T480 with OpenCore 0.9.0 bootloader.
 
 ![descrizione](./Infos/pc.png)
 
