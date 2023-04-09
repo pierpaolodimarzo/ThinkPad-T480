@@ -56,6 +56,7 @@ Please generate SMBIOS and add to conflig.plist (Using https://github.com/corpne
 - [x] Realtek ALC256 HDMI Audio Output
 - [x] TouchPad 1-5 fingers swipe (Emulate force touch using longer and more voluminous touch)
 - [x] TrackPoint
+- [x] TouchScreen (USB connected)
 - [x] Camera (USB connected)
 - [x] Sleep / Wake / SpeedStep 
 - [x] LED Functionality (blinking after WAKE/SLEEP)
