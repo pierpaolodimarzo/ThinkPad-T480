@@ -102,7 +102,7 @@ In Thunderbolt Menu, set the following options:
 
 The Thunderbolt port work properly, if the FW must be NVM 23.
 
-If you don't have the NVM 23 FW, to update it, follow this procedure:
+**If you don't have the NVM 23 FW, to update it, follow this procedure**
 
 (https://github.com/pierpaolodimarzo/ThinkPad-T480/issues/9)
 
