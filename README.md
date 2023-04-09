@@ -98,12 +98,20 @@ In Thunderbolt Menu, set the following options:
 -  `Security Level`: **No Security**
 -  `Support in Pre Boot Environment > Thunderbolt(TM) device`: **Enabled**
 
+## Thunderbolt | ‼️ Attention ‼️
+
+The Thunderbolt port work properly, if the FW must be NVM 23.
+
+If you don't have the NVM 23 FW, to update it, follow this procedure:
+
+![thunderbolt](./Infos/thunderbolt.png)
+
 ## ‼️ Attention ‼️ Post Installation ##
 After installing the O.S. please set this way to have perfect sleep and wake. 
 ![wake_sleep_setting](./Infos/wake_sleep_setting.png)
 
 ## Peripherals & Other
-![thunderbolt](./Infos/thunderbolt.png)
+
 ![peripherals](./Infos/peripherals.png)
 
 ## What doesn't or WIP:
